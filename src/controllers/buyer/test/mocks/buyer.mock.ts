@@ -37,5 +37,5 @@ export const buyerDocument: IBuyerDocument = {
   profilePicture: '',
   isSeller: false,
   purchasedGigs: [],
-  createdAt: '2023-12-19T07:42:24.431Z',
+  createdAt: '2023-12-19T07:42:24.431Z'
 };
